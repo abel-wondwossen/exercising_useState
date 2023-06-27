@@ -1,0 +1,10 @@
+.App {
+    text-align: center;
+    /* background-color: rgb(100, 101, 101); */
+  }  
+.input {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 30%;
+  }
